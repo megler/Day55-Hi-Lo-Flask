@@ -3,7 +3,7 @@
 # Python Bootcamp Day 55 - Flask High Low Game
 # Usage:
 #  Using Flask to generate a website, pick a number between 0-9. Enter your guess
-# as a URL page (eg. http://127.0.0.1:5000/5 or http://127.0.0.1:5000/2)
+#  as a URL page (eg. http://127.0.0.1:5000/5 or http://127.0.0.1:5000/2)
 #
 # Marceia Egler December 31, 2021
 
